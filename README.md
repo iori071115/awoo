@@ -12,4 +12,7 @@
 1.列出 id 為 6 的寶可夢名稱（name）  
 ![1-1](https://github.com/iori071115/awoo/assets/75652032/48e9e621-13c4-44a6-8094-bbb0e563a177)
 2.列出 id < 20, id > 0 的寶可夢名稱（name）以及其寶可夢的屬性（types），依照 id 由小至大排序  
+![2-1](https://github.com/iori071115/awoo/assets/75652032/c2009673-9e55-4409-b05c-895f06fa4ff3)
+![2-2](https://github.com/iori071115/awoo/assets/75652032/e57c18d9-35ab-408a-a07e-ed82e288306c)
+![3-1](https://github.com/iori071115/awoo/assets/75652032/5c7a7a56-25ab-47fb-9e23-6bd8abdd273d)
 3.列出 id < 100, id > 0 的寶可夢中，體重（weight） < 50 的寶可夢名稱（name）及寶可夢體重（weight），並且依照體重由大至小排序  
