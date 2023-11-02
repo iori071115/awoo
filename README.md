@@ -19,9 +19,9 @@
 ![3-1](https://github.com/iori071115/awoo/assets/75652032/5c7a7a56-25ab-47fb-9e23-6bd8abdd273d)  
   
 [Pokemon_2] Awoo QA Challenge  
-1. 列出 item 總數量（count）
+1. 列出 item 總數量（count）  
 ![4-1](https://github.com/iori071115/awoo/assets/75652032/d9594051-b200-4733-be0a-483da10daa5a)  
-2. 列出 id < 20, id > 0 的寶可夢物品名稱（name），依照 id 由小至大排序
-![5-1](https://github.com/iori071115/awoo/assets/75652032/90ad88a9-34c8-4d63-8e36-378dff314294)
-3. 列出 id < 50, id > 0 的寶可夢物品中，價格（cost）≤ 1500 的寶可夢物品名稱（name）及寶可夢物品價格（cost），並且依照花費價格（cost）由大至小排序
+2. 列出 id < 20, id > 0 的寶可夢物品名稱（name），依照 id 由小至大排序  
+![5-1](https://github.com/iori071115/awoo/assets/75652032/90ad88a9-34c8-4d63-8e36-378dff314294)  
+3. 列出 id < 50, id > 0 的寶可夢物品中，價格（cost）≤ 1500 的寶可夢物品名稱（name）及寶可夢物品價格（cost），並且依照花費價格（cost）由大至小排序  
 ![6-1](https://github.com/iori071115/awoo/assets/75652032/eaa1b8e5-6100-463a-b950-62d21b9566b5)  
